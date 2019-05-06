@@ -9,6 +9,22 @@
 #    twitter:
 list:
   -
+    id: sharone-zitzman
+    description: >
+      Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love. Having built both the DevOps Israel and Cloud Native Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. Sharone heads up Developer Relations at AppsFlyer as her day job. You can find her on Twitter or Github as @shar1z.
+    image: sharone-zitzman.jpg
+    first_name: Sharone
+    last_name: Zitzman
+    twitter: shar1z
+  -
+    id: massimiliano-mantione
+    description: >
+      Software Engineer at heart, mostly JIT compiler engineer (Mono, Unity3D, V8 in Google), now deploying Virtual Reality worlds on the web in Hyperfair, and Robotics enthusiast as a hobby.
+    image: massimiliano-mantione.jpg
+    first_name: Massimiliano
+    last_name: Mantione
+    twitter: m_a_s_s_i
+  -
     id: geisy-domiciano
     description:
     image: geisy-domiciano.jpg

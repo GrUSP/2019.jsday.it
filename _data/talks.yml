@@ -12,9 +12,11 @@ list:
   -
     slot: "1"
     speaker_id:
-      -
-    title: TBA
+      - massimiliano-mantione
+    title: Javascript and the Polyglot Web
     extract: >
+      Javascript is the language of the web, it has always been, and always will be. Or maybe not, or maybe not so
+      absolutely... let's travel in time to find out.
   -
     slot: "2"
     speaker_id:
@@ -237,12 +239,20 @@ list:
       then think about scalability.
   -
     slot: "21"
+    schedule_only: true
     speaker_id:
     title: '("Fearless Refactoring in Elm" continued)'
     extract: ""
   -
     slot: "22"
-    speaker_id:
-    title: TBA
+    speaker_id: sharone-zitzman
+    title: "Game of Open Source: A Tale of Hype & Mire"
     extract: >
-      TBA
+      There is no question that the going is tough when it comes to open source projects. Building the excitement,
+      community and hype is an undertaking unto itself - let's not talk about monetization & sustainability. Often
+      times, just as your project is starting to get off the ground and generate real business - newer and cooler
+      disruptors enter the playing field - and it gets hard to keep the momentum going, all while fending off giants
+      that want a piece of the pie. This talk is going to give some real world insight on what's involved in really
+      building a sustainable open source project, even when the hype is dwindling and the dust settles. This will be
+      based upon lessons learned from leading the Cloud Native & OSS community in Israel, as well as the Cloudify
+      community as my former day job.
